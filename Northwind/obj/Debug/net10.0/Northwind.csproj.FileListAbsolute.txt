@@ -29,7 +29,6 @@
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/scopedcss/bundle/Northwind.styles.css
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/scopedcss/projectbundle/Northwind.bundle.scp.css
-/workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/compressed/fz6sikxop1-{0}-lugek5hnai-lugek5hnai.gz
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/compressed/qnpqx9rjid-{0}-61n19gt1b8-61n19gt1b8.gz
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/compressed/ozxjlut340-{0}-fr7q2aak1r-fr7q2aak1r.gz
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/compressed/4bzdmjp9x4-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -104,3 +103,4 @@
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/Northwind.pdb
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/Northwind.genruntimeconfig.cache
 /workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/ref/Northwind.dll
+/workspaces/module9codingchallenge/Northwind/obj/Debug/net10.0/compressed/fz6sikxop1-{0}-yfnuarfma9-yfnuarfma9.gz
